@@ -1,1 +1,9 @@
-
+body {background:lightskyblue; } 
+h1{ font-weight: bold;
+  font-size: 36px;
+   color: mediumblue;
+   text-align: center;} 
+h2 {font-weight: bold;
+    font-size: 24px;
+    color: mediumvioletred;
+    text-aling: center;} 
