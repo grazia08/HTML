@@ -17,32 +17,34 @@
 			<div class="card" style="width: 18rem;">
 			  <img src="..." class="card-img-top" alt="...">
 			  <div class="card-body">
-				<h5 class="card-title">Card title</h5>
-				<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+				<h5 class="card-title">episodio1</h5>
+				<p class="card-text">In una partita un fallo non fischiato mi ha fatto infuriare. Il mio allenatore mi ha aiutata a calmarmi</p>
 				<a href="#" class="btn btn-primary">Go somewhere</a>
 			  </div>
 			</div>
 			<div class="card" style="width: 18rem;">
 			  <img src="..." class="card-img-top" alt="...">
 			  <div class="card-body">
-				<h5 class="card-title">Card title</h5>
-				<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+				<h5 class="card-title">episodio2</h5>
+				<p class="card-text"> Quando Gianluigi ogni volta mi fa innervosire nominando nomi di altre ragazze e lui sa
+che mi da fastidio</p>
 				<a href="#" class="btn btn-primary">Go somewhere</a>
 			  </div>
 			</div>
 			<div class="card" style="width: 18rem;">
 			  <img src="..." class="card-img-top" alt="...">
 			  <div class="card-body">
-				<h5 class="card-title">Card title</h5>
-				<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+				<h5 class="card-title"> episodio3</h5>
+				<p class="card-text">Provo rabbia quando qualcuno mi mente</p>
 				<a href="#" class="btn btn-primary">Go somewhere</a>
 			  </div>
 			</div>
 			<div class="card" style="width: 18rem;">
 			  <img src="..." class="card-img-top" alt="...">
 			  <div class="card-body">
-				<h5 class="card-title">Card title</h5>
-				<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+				<h5 class="card-title">episodio4</h5>
+				<p class="card-text">La maggior parte delle volte in cui mi arrabbio è quando i miei genitori non vogliono che
+faccia determinate cose.</p>
 				<a href="#" class="btn btn-primary">Go somewhere</a>
 			  </div>
 			</div>
