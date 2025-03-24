@@ -56,37 +56,117 @@ faccia determinate cose.</p>
 			<div class="card" style="width: 18rem;">
 			  <img src="..." class="card-img-top" alt="...">
 			  <div class="card-body">
-				<h5 class="card-title">Card title</h5>
-				<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+				<h5 class="card-title">episodio1</h5>
+				<p class="card-text">Quando mi parla una bella ragazza che mi piace</p>
 				<a href="#" class="btn btn-primary">Go somewhere</a>
 			  </div>
 			</div>
 			<div class="card" style="width: 18rem;">
 			  <img src="..." class="card-img-top" alt="...">
 			  <div class="card-body">
-				<h5 class="card-title">Card title</h5>
-				<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+				<h5 class="card-title">episodio2</h5>
+				<p class="card-text">Mi sono capitati molti episodi dove l’ansia ha preso il controllo ma una colta ho avuto
+un attacco di panico di notte nel letto perché ebbi una litigata molto pesante con una
+persona importante per me e se mi ricapita non riesco a gestirlo. Come faccio?</p>
 				<a href="#" class="btn btn-primary">Go somewhere</a>
 			  </div>
 			</div>
 			<div class="card" style="width: 18rem;">
 			  <img src="..." class="card-img-top" alt="...">
 			  <div class="card-body">
-				<h5 class="card-title">Card title</h5>
-				<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+				<h5 class="card-title">episodio3</h5>
+				<p class="card-text">Ansia quando faccio i compiti in classe, ho chiesto aiuto alla prof</p>
 				<a href="#" class="btn btn-primary">Go somewhere</a>
 			  </div>
 			</div>
 			<div class="card" style="width: 18rem;">
 			  <img src="..." class="card-img-top" alt="...">
 			  <div class="card-body">
-				<h5 class="card-title">Card title</h5>
-				<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+				<h5 class="card-title">episodio4</h5>
+				<p class="card-text">9. Provo ansia quando mi vergogno infatti piango tanto</p>
 				<a href="#" class="btn btn-primary">Go somewhere</a>
 			  </div>
 			</div>
 		</div>
 	</div>
+<h1 class="text-center">stress</h1>
+	
+		<div class="row">
+			<div class="card" style="width: 18rem;">
+			  <img src="..." class="card-img-top" alt="...">
+			  <div class="card-body">
+				<h5 class="card-title">episodio1</h5>
+				<p class="card-text">Sono sempre stressata anche se non faccio qualcosa di molto impegnativo</p>
+				<a href="#" class="btn btn-primary">Go somewhere</a>
+			  </div>
+			</div>
+			<div class="card" style="width: 18rem;">
+			  <img src="..." class="card-img-top" alt="...">
+			  <div class="card-body">
+				<h5 class="card-title">episodio2</h5>
+				<p class="card-text">Troppi compiti e verifiche mi stavano assalendo e ho chiesto aiuto ai miei genitori per
+organizzarmi meglio</p>
+				<a href="#" class="btn btn-primary">Go somewhere</a>
+			  </div>
+			</div>
+			<div class="card" style="width: 18rem;">
+			  <img src="..." class="card-img-top" alt="...">
+			  <div class="card-body">
+				<h5 class="card-title">episodio3</h5>
+				<p class="card-text">Provo stress quando litigo con le persone che amo o a cui tengo</p>
+				<a href="#" class="btn btn-primary">Go somewhere</a>
+			  </div>
+			</div>
+			<div class="card" style="width: 18rem;">
+			  <img src="..." class="card-img-top" alt="...">
+			  <div class="card-body">
+				<h5 class="card-title">episodio4</h5>
+				<p class="card-text">Provo stress durante le interrogazioni</p>
+				<a href="#" class="btn btn-primary">Go somewhere</a>
+			  </div>
+			</div>
+		</div>
+	
+		<h1 class="text-center">tristezza</h1>
+	
+		<div class="row">
+			<div class="card" style="width: 18rem;">
+			  <img src="..." class="card-img-top" alt="...">
+			  <div class="card-body">
+				<h5 class="card-title">episodio1</h5>
+				<p class="card-text">Dopo aver scoperto una cosa ho provato una profonda tristezza, mi sentivo solo e
+frainteso soprattutto sembrava che la mia famiglia non capisse il mio dolore. E anche
+qui non chiesi aiuto a nessuno. Sapevo che nessuno mi avrebbe capito.</p>
+				<a href="#" class="btn btn-primary">Go somewhere</a>
+			  </div>
+			</div>
+			<div class="card" style="width: 18rem;">
+			  <img src="..." class="card-img-top" alt="...">
+			  <div class="card-body">
+				<h5 class="card-title">episodio2</h5>
+				<p class="card-text"Provo stress quando sento pressione a scuola o in un altro contesto</p>
+				<a href="#" class="btn btn-primary">Go somewhere</a>
+			  </div>
+			</div>
+			<div class="card" style="width: 18rem;">
+			  <img src="..." class="card-img-top" alt="...">
+			  <div class="card-body">
+				<h5 class="card-title">episodio3</h5>
+				<p class="card-text">Non viene riconosciuto ciò che faccio</p>
+				<a href="#" class="btn btn-primary">Go somewhere</a>
+			  </div>
+			</div>
+			<div class="card" style="width: 18rem;">
+			  <img src="..." class="card-img-top" alt="...">
+			  <div class="card-body">
+				<h5 class="card-title">episodio4</h5>
+				<p class="card-text">13. Ho sbalzi d’umore alcune volte e la tristezza prevale sulla felicità</p>
+				<a href="#" class="btn btn-primary">Go somewhere</a>
+			  </div>
+			</div>
+		</div>
+		
+		
 
 	
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
