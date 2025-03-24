@@ -165,6 +165,45 @@ qui non chiesi aiuto a nessuno. Sapevo che nessuno mi avrebbe capito.</p>
 			  </div>
 			</div>
 		</div>
+<h1 class="text-center">paura</h1>
+	
+		<div class="row">
+			<div class="card" style="width: 18rem;">
+			  <img src="..." class="card-img-top" alt="...">
+			  <div class="card-body">
+				<h5 class="card-title">episodio1</h5>
+				<p class="card-text">Ho avuto paura quando un mio amico o un mio familiare stava molto male da finire in
+ospedale</p>
+				<a href="#" class="btn btn-primary">Go somewhere</a>
+			  </div>
+			</div>
+			<div class="card" style="width: 18rem;">
+			  <img src="..." class="card-img-top" alt="...">
+			  <div class="card-body">
+				<h5 class="card-title">episodio2</h5>
+				<p class="card-text">Ho avuto paura ultimamente a causa del mio cane che aveva mangiato qualcosa da
+terra e si è sentito male</p>
+				<a href="#" class="btn btn-primary">Go somewhere</a>
+			  </div>
+			</div>
+			<div class="card" style="width: 18rem;">
+			  <img src="..." class="card-img-top" alt="...">
+			  <div class="card-body">
+				<h5 class="card-title">episodio3</h5>
+				<p class="card-text">Ho paura di rimanere sola e di essere abbandonata da tutti</p>
+				<a href="#" class="btn btn-primary">Go somewhere</a>
+			  </div>
+			</div>
+			<div class="card" style="width: 18rem;">
+			  <img src="..." class="card-img-top" alt="...">
+			  <div class="card-body">
+				<h5 class="card-title">episodio4</h5>
+				<p class="card-text">10. Ho provato paura quando ho rotto lo schermo del computer e avevo paura che lo
+sapesse mia madre in quanto mi avrebbe punito. Ho chiesto aiuto a mia sorella</p>
+				<a href="#" class="btn btn-primary">Go somewhere</a>
+			  </div>
+			</div>
+		</div>
 		
 		
 
