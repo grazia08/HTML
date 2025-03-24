@@ -204,6 +204,46 @@ sapesse mia madre in quanto mi avrebbe punito. Ho chiesto aiuto a mia sorella</p
 			  </div>
 			</div>
 		</div>
+
+		<h1 class="text-center">senso di colpa</h1>
+	
+		<div class="row">
+			<div class="card" style="width: 18rem;">
+			  <img src="..." class="card-img-top" alt="...">
+			  <div class="card-body">
+				<h5 class="card-title">episodio1</h5>
+				<p class="card-text">Ho provato senso di colpa quando ho deciso di mia volontà di non aiutare una persona
+che aveva bisogno di aiuto ed è finita nei guai e sentivo che era colpa mia. E’ una cosa
+normale? E’ giusto o no?</p>
+				<a href="#" class="btn btn-primary">Go somewhere</a>
+			  </div>
+			</div>
+			<div class="card" style="width: 18rem;">
+			  <img src="..." class="card-img-top" alt="...">
+			  <div class="card-body">
+				<h5 class="card-title">episodio2</h5>
+				<p class="card-text">Ho provato sensi di colpa quando ho bullizzato un mio amico, ho chiesto aiuto a mia
+madre</p>
+				<a href="#" class="btn btn-primary">Go somewhere</a>
+			  </div>
+			</div>
+			<div class="card" style="width: 18rem;">
+			  <img src="..." class="card-img-top" alt="...">
+			  <div class="card-body">
+				<h5 class="card-title">episodio3</h5>
+				<p class="card-text">Provo sensi di colpa quando qualcuno per colpa mia non fa qualcosa</p>
+				<a href="#" class="btn btn-primary">Go somewhere</a>
+			  </div>
+			</div>
+			<div class="card" style="width: 18rem;">
+			  <img src="..." class="card-img-top" alt="...">
+			  <div class="card-body">
+				<h5 class="card-title">episodio4</h5>
+				<p class="card-text">Quando litigo con i miei per cose stupide</p>
+				<a href="#" class="btn btn-primary">Go somewhere</a>
+			  </div>
+			</div>
+		</div>
 		
 		
 
