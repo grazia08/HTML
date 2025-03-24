@@ -244,6 +244,45 @@ madre</p>
 			  </div>
 			</div>
 		</div>
+<h1 class="text-center">vergogna</h1>
+	
+		<div class="row">
+			<div class="card" style="width: 18rem;">
+			  <img src="..." class="card-img-top" alt="...">
+			  <div class="card-body">
+				<h5 class="card-title">episodio1</h5>
+				<p class="card-text">Io provo vergogna per molte cose, quindi non c’è stato un evento particolare</p>
+				<a href="#" class="btn btn-primary">Go somewhere</a>
+			  </div>
+			</div>
+			<div class="card" style="width: 18rem;">
+			  <img src="..." class="card-img-top" alt="...">
+			  <div class="card-body">
+				<h5 class="card-title">episodio2</h5>
+				<p class="card-text">Provo vergogna quando mi guardo allo specchio e quando vedo il mio fisico in
+confronto alle altre</p>
+				<a href="#" class="btn btn-primary">Go somewhere</a>
+			  </div>
+			</div>
+			<div class="card" style="width: 18rem;">
+			  <img src="..." class="card-img-top" alt="...">
+			  <div class="card-body">
+				<h5 class="card-title">episodio3</h5>
+				<p class="card-text">Quando stavo con i miei amici a Roma e per fare lo sgambetto ad un’amica mia, cado
+io</p>
+				<a href="#" class="btn btn-primary">Go somewhere</a>
+			  </div>
+			</div>
+			<div class="card" style="width: 18rem;">
+			  <img src="..." class="card-img-top" alt="...">
+			  <div class="card-body">
+				<h5 class="card-title">episodio4</h5>
+				<p class="card-text">Ho avuto vergogna di ammettere o esprimere cose intime/personali</p>
+				<a href="#" class="btn btn-primary">Go somewhere</a>
+			  </div>
+			</div>
+		</div>
+		
 		
 		
 
